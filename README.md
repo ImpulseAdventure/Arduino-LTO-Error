@@ -16,6 +16,7 @@ Demonstration of Arduino `lto1.exe` compiler error (`splice_child_die` / `dwarf2
 ```
 
 ### Other test results:
+- Arduino IDE 1.8.7 + Arduino AVR Boards 1.6.209 (no error)
 - Arduino IDE 1.8.7 + Arduino AVR Boards 1.6.23  (fail)
 - Arduino IDE 1.8.7 + Arduino AVR Boards 1.6.22  (fail)
 - Arduino IDE 1.8.7 + Arduino AVR Boards 1.6.21  (no error)

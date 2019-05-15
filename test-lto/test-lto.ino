@@ -14,6 +14,7 @@
 //   lto-wrapper.exe: fatal error: C:\Program Files (x86)\Arduino\hardware\tools\avr/bin/avr-gcc returned 1 exit status
 //
 // Other test results:
+// - Arduino IDE 1.8.7 + Arduino AVR Boards 1.6.209 (no error)
 // - Arduino IDE 1.8.7 + Arduino AVR Boards 1.6.23  (fail)
 // - Arduino IDE 1.8.7 + Arduino AVR Boards 1.6.22  (fail)
 // - Arduino IDE 1.8.7 + Arduino AVR Boards 1.6.21  (no error)
